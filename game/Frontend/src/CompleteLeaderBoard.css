@@ -1,0 +1,23 @@
+.wrapper1{
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    grid-gap:1em;
+   
+  }
+
+  .boxx1{
+    
+ 
+ grid-column: 1;
+ width:600px;
+ margin-left: 100px;
+  }
+
+  .boxx2{
+    
+   
+    grid-column:2;
+    width:600px;
+    margin-left: 80px;
+  }
+  
